@@ -1,0 +1,21 @@
+https://school.programmers.co.kr/learn/challenges/beginner?
+function solution(numer1, denom1, numer2, denom2) {
+    var answer = [];
+    const denum=denum1*num2+denum2*num1 ;
+    const num=num1*num2;
+    let minNumber ;
+    if(denum<num){
+        minNumber=denum ;
+    } else {
+        minNumber=num ;
+    }
+    
+      if(denum% minNumber===0){
+          if(num%minNumber===0)}
+      
+              return[denum/minNumber, num/minNumber] ;
+          }
+      } 
+    
+  
+order=acceptance_desc&languages=javascript
