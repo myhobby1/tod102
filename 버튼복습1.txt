@@ -1,0 +1,12 @@
+오전 11:22 2023-10-02
+ <버튼>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<button style="font-size :30px ;" value="button" onclick="window.location.href='httpURL';">
+ABC</button>
+
+</body>
+</html>
